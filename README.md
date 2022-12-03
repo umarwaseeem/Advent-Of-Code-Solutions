@@ -9,3 +9,7 @@ https://adventofcode.com/
 ## Day 2 (Rock Paper Scissor):
 
 <img src="Day 2/day2.png" height=900 width=600>
+
+## Day 3 (Rucksack Reorganization):
+
+<img src="Day 3/day3.png" height=900 width=600>
