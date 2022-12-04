@@ -2,6 +2,18 @@
 
 https://adventofcode.com/
 
+
+## For automatically getting input for puzzle
+
+- Run `setx AOC_SESSION "your session id"` in cmd (for windows)
+- Run `export AOC_SESSION="your session id"` in terminal (for linux)
+- Run `init.py` to get input for puzzle
+  
+## For automatically submitting answer for puzzle
+
+- Run `submit.py` to submit answer for puzzle
+
+
 ## <a href="https://adventofcode.com/2022/day/1"> Day 1 </a> (Calorie Counting):  
 
 <img src="Day 1/day1.png" height=900 width=600>
