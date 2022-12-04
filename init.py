@@ -1,5 +1,7 @@
 import os
 import aocd
+import requests
+
 
 # make a cpp template code which opens a file named input.txt and reads the input from it
 cppTemplate = """#include <bits/stdc++.h>
@@ -46,9 +48,6 @@ except:
     exit()
     
 
-
-
-# make a folder with name of the day
 path = str(os.getcwd()) + "/Day" + day
 
 try:
@@ -57,14 +56,7 @@ except:
     print("Error in making directory")
     exit()
 
-# write the data to the file input.txt in the new folder
-try:
-    f = open(path + "/input.txt", "w")
-    f.write(data)
-    f.close()
-except:
-    print("Error in writing to file")
-    exit()
+os.system(""" aoc download -d {day} -y {year} -i "Day{day}/input.txt" -p "Day{day}/puzzle.md"  """.format(day=day, year=year))
 
 lang = input("Enter the language for solution: ")
 
@@ -94,3 +86,4 @@ else:
         exit()
 
 print("Done")
+
