@@ -30,3 +30,7 @@ https://adventofcode.com/
 ## <a href="https://adventofcode.com/2022/day/4"> Day 4 </a> (Camp Cleanup):
 
 <img src="Day 4/day4.png" height=1000 width=700>
+
+## <a href="https://adventofcode.com/2022/day/5"> Day 5 </a> (Supply Stacks):
+
+<img src="Day 5/day5.png" height=2000 width=900>
