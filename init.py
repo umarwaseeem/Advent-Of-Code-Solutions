@@ -48,7 +48,7 @@ except:
     exit()
     
 
-path = str(os.getcwd()) + "/Day" + day
+path = str(os.getcwd()) + "/Day " + day
 
 try:
     os.mkdir(path)

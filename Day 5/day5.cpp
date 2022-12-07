@@ -7,7 +7,7 @@ void part2(vector<stack<char>> &stacks, int amountToMove, int sourceStack, int d
 int main()
 {
 
-    ifstream file("sample.txt");
+    ifstream file("input.txt");
 
     vector<string> lines;
     string line;

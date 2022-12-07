@@ -34,3 +34,11 @@ https://adventofcode.com/
 ## <a href="https://adventofcode.com/2022/day/5"> Day 5 </a> (Supply Stacks):
 
 <img src="Day 5/day5.png" height=2000 width=900>
+
+## <a href="https://adventofcode.com/2022/day/6"> Day 6 </a> (Tuning Trouble):
+
+<img src="Day 6/day6.png" height=1000 width=700>
+
+## <a href="https://adventofcode.com/2022/day/7"> Day 7 </a> (No Space Left On Device):
+
+<img src="Day 7/day7.png" height=2000 width=400>
