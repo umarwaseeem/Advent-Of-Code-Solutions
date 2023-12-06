@@ -1,7 +1,5 @@
 # Advent-Of-Code Solutions
 
-Advent Of Code - Mostly C++
-
 https://adventofcode.com/
 
 - Run `winget install aoc-cli` to install the Advent of Code CLI.
