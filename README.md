@@ -1,6 +1,6 @@
-# Advent-Of-Code-2022 Solutions
+# Advent-Of-Code Solutions
 
-Advent Of Code 2022 - Mostly C++
+Advent Of Code - Mostly C++
 
 https://adventofcode.com/
 
